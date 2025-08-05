@@ -1,7 +1,6 @@
 ---
 description: 代码结构重构 - 处理设计模式应用、代码复用性、可维护性等结构问题
 allowed-tools: Edit, MultiEdit, Read, Write, Bash, Grep, Glob
-model: sonnet
 argument-hint: [@文档路径] [重构目标]
 ---
 

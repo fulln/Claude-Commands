@@ -1,7 +1,6 @@
 ---
 description: 从文档到代码实现 - 基于需求文档生成完整可运行的代码
 allowed-tools: Write, Read, Edit, MultiEdit, Glob, Grep, Bash
-model: sonnet
 argument-hint: [@文档路径] [实现描述]
 ---
 

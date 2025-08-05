@@ -1,7 +1,6 @@
 ---
 description: 文档与代码一致性检查 - 对比需求文档和实际代码，检查质量和安全问题
 allowed-tools: Read, Grep, Glob, Bash
-model: sonnet
 argument-hint: [@文档路径] [检查范围]
 ---
 

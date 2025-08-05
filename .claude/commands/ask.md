@@ -1,7 +1,6 @@
 ---
 description: 需求分析和架构设计 - 把模糊的业务需求转化为技术文档
 allowed-tools: Write, Read, Glob, Grep
-model: sonnet
 argument-hint: [需求描述]
 ---
 

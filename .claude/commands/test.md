@@ -1,7 +1,6 @@
 ---
 description: 测试用例生成 - 基于需求文档自动生成全面的测试用例
 allowed-tools: Write, Read, Edit, Bash, Glob, Grep
-model: sonnet
 argument-hint: [@文档路径] [测试类型]
 ---
 

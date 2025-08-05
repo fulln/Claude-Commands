@@ -1,7 +1,6 @@
 ---
 description: 性能问题优化 - 处理算法复杂度、资源使用、并发处理等性能问题
 allowed-tools: Edit, MultiEdit, Read, Bash, Grep, Glob
-model: sonnet
 argument-hint: [@文档路径] [优化目标]
 ---
 
